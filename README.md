@@ -30,11 +30,11 @@
 ```
 #### Open new terminal window and clone this repository
 ```
-git clone (add github repo)
+git clone https://github.com/jutivia/DOD-Nft-market-place.git
 ```
 #### Install dependencies
 ```
-npm install
+npm install && cd client npm install
 ```
 #### Compile smart contract
 ```
